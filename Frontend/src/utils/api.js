@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 // Set the base URL for API requests
-const API_URL = 'http://localhost:5000/api';
+const API_URL = 'https://rolebasedusermangmentproject.onrender.com/api';
 
 
 
